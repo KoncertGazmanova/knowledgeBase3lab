@@ -1,0 +1,7 @@
+# Исключить системные файлы Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+*.opendb
